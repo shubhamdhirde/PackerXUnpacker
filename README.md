@@ -5,5 +5,5 @@ This application packs multiple files on directory into single file. Packed file
 $javac filenemae.java
 ###### Execute ######  
 $java filenemae arg1 arg2  
-. arg1 : DirectoryName
+. arg1 : DirectoryName  
 . arg2 : FileName
